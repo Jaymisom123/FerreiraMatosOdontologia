@@ -1,0 +1,5 @@
+Contact: mailto:ferreiramatosodontologia@hotmail.com
+Contact: tel:+556498145-7994
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: pt-BR
+Canonical: https://ferreiramatosodontologia.com.br/.well-known/security.txt 

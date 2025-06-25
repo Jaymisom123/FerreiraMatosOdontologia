@@ -1,0 +1,38 @@
+# Robots.txt - Ferreira Matos Odontologia
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Bloquear arquivos administrativos e de configuração
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /manifest.json
+Disallow: /static/js/
+Disallow: /static/css/
+
+# Permitir acesso a imagens importantes para SEO
+Allow: /static/media/
+Allow: /favicon.png
+Allow: /logo192.png
+Allow: /logo512.png
+
+# Sitemap
+Sitemap: https://ferreiramatosodontologia.com.br/sitemap.xml
+
+# Crawl-delay para ser respeitoso com os bots
+Crawl-delay: 1
+
+# User-agents específicos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Bloquear bots maliciosos
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
