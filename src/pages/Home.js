@@ -73,6 +73,7 @@ const Home = () => {
                                 
                                 <div className="map-container mb-3" style={{borderRadius: '10px', overflow: 'hidden'}}>
                                     <iframe
+                                        title="Mapa da Clínica Nossa Senhora de Fátima"
                                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3822.8!2d-47.9!3d-18.1!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDA2JzAwLjAiUyA0N8KwNTQnMDAuMCJX!5e0!3m2!1spt-BR!2sbr!4v1"
                                         width="100%"
                                         height="200"
@@ -152,6 +153,7 @@ const Home = () => {
                                 
                                 <div className="map-container mb-3" style={{borderRadius: '10px', overflow: 'hidden'}}>
                                     <iframe
+                                        title="Mapa da Clínica Centro"
                                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3822.8!2d-47.95!3d-18.15!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDA5JzAwLjAiUyA0N8KwNTcnMDAuMCJX!5e0!3m2!1spt-BR!2sbr!4v2"
                                         width="100%"
                                         height="200"
