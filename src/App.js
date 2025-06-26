@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.scss';
+import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 import About from './pages/About';
 import AparelhosOrtodônticos from './pages/AparelhosOrtodônticos';
 import Contatos from './pages/Contatos';
@@ -34,6 +35,7 @@ const WhatsAppFloat = () => {
 function App() {
   return (
     <>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/dentistas" element={<Dentistas />} />

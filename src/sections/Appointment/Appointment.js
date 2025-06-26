@@ -41,6 +41,7 @@ const Appointment = () => {
                                             }}
                                         >
                                             <i className="fab fa-whatsapp" style={{fontSize: '20px'}}></i>
+                                            WhatsApp - Clínica Fátima
                                         </a>
                                     </div>
                                     <div className="col-md-6 mb-3">
@@ -66,6 +67,7 @@ const Appointment = () => {
                                             }}
                                         >
                                             <i className="fab fa-whatsapp" style={{fontSize: '20px'}}></i>
+                                            WhatsApp - Clínica Centro
                                         </a>
                                     </div>
                                 </div>
@@ -92,7 +94,7 @@ const Appointment = () => {
                                             }}
                                         >
                                             <i className="fas fa-phone" style={{fontSize: '18px'}}></i>
-                                            (64) 98145-7994
+                                            Clínica Fátima - (64) 98145-7994
                                         </a>
                                     </div>
                                     <div className="col-md-6 mb-3">
@@ -116,7 +118,7 @@ const Appointment = () => {
                                             }}
                                         >
                                             <i className="fas fa-phone" style={{fontSize: '18px'}}></i>
-                                            (64) 99955-3163
+                                            Clínica Centro - (64) 99955-3163
                                         </a>
                                     </div>
                                 </div>
